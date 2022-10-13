@@ -238,8 +238,7 @@ body {
 
 .appointment {
   padding: 100px 0;  
-  background-color: var(--color-primary);
-  height: 100vh;
+  background-color: var(--color-primary);  
   background-image: url(../images/chair-ic.png);
   background-repeat: no-repeat;
   background-position: right bottom;
