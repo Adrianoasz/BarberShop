@@ -306,6 +306,7 @@ body {
   margin-top: 10px;
   text-transform: uppercase;
   font-weight: bold;
+  cursor: pointer;
 }
 
 /**************** GALLERY ****************/
